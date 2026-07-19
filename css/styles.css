@@ -388,10 +388,8 @@ p {
 }
 
 .hero-brand img {
-  height: clamp(64px, 10vw, 88px);
+  height: clamp(72px, 12vw, 110px);
   width: auto;
-  background: rgba(255, 255, 255, 0.96);
-  padding: 0.65rem 1rem;
   border-radius: var(--radius);
 }
 
