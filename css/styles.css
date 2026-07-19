@@ -888,9 +888,6 @@ p {
   height: 48px;
   width: auto;
   margin-bottom: 1rem;
-  background: rgba(255, 255, 255, 0.96);
-  padding: 0.4rem 0.65rem;
-  border-radius: var(--radius);
 }
 
 .footer-brand p {
